@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60439550976",
+    "firebase_url": "https://doan-bac8c.firebaseio.com",
+    "project_id": "doan-bac8c",
+    "storage_bucket": "doan-bac8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60439550976:android:20ec81916a327da7",
+        "android_client_info": {
+          "package_name": "com.example.kiat.a1553015_1553033_doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60439550976-892910ie7q2a9i8r4bgsvnu9p22tj586.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiat.a1553015_1553033_doan",
+            "certificate_hash": "451702c6794d57a73851c4e4708453550a14dc2b"
+          }
+        },
+        {
+          "client_id": "60439550976-qeuns9thvbh3453406li9nsi3utsoioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlH0x_pGHVqd6YuPZolZUXc0XAcargt_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60439550976-qeuns9thvbh3453406li9nsi3utsoioq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
